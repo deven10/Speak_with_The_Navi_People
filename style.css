@@ -54,12 +54,15 @@
     height: 80px;
     border: 2px solid white;
     margin: 10px;
-    padding: 10px;
+    padding: 10px 15px;
     resize: none;
     background-color: transparent;
     color:white;
     cursor: pointer;
     border-radius: 5px;
+    text-align: left;
+    letter-spacing: .5px;
+    font-family: 'Poppins', sans-serif;
 }
 
 #btn{
@@ -86,8 +89,11 @@
     height:80px;
     border: 2px solid white;
     margin: 10px;
-    padding: 10px;
+    padding: 10px 15px;
     background-color: transparent;
     color:white;
     border-radius: 5px;
+    text-align: left;
+    letter-spacing: .5px;
+    font-family: 'Poppins', sans-serif;
 }
